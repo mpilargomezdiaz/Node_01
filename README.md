@@ -37,8 +37,8 @@ Crea una aplicación que permita realizar las siguientes operaciones en la colec
 
 ## Cómo ejecutar
 
-1. Clona el repositorio.
+1.- Clona el repositorio.
 
-2. Instala las dependencias con npm install.
+2.- Instala las dependencias con npm install.
 
-3. Ejecuta npm start.
+3.- Ejecuta npm start.
